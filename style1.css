@@ -1,0 +1,11 @@
+body{
+	color: black;
+	background-image:url(https://trackingwonder.com/wp-content/uploads/2017/05/Tracking-Wonder-Authority-and-Thought-Leadership.jpg) ;
+	background-size:cover;
+}
+h1{
+	border: 5px solid black;
+}
+form{
+	text-align: center ;
+}

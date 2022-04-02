@@ -1,0 +1,48 @@
+body{
+	background-color:lavender ;
+	text-align: center;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1 {
+	width:  400px;
+	font-family: fantasy ;
+	font-style: italic ;
+	border-bottom: 5px solid pink ;
+	border-right: 5px solid pink;
+	color: black;
+	font-size: 3em;
+	text-align: center;
+}
+img{
+	margin: 10px;
+}
+
+hr{
+	background-color: black;
+	border-width: 3px;
+	max-width: 65px;
+}
+.btn{
+	border-radius: 300px ;
+	text-transform: uppercase ;
+}
+
+.btn-primary{
+	background-color: hotpink;
+	border-color: hotpink;
+}
+
+.btn-primary:hover{
+	background-color: floralwhite;
+	border-color: floralwhite;
+	border-width: 4px;
+}
+.btn-xl{
+	padding : 1rem 2rem;
+}
+
+
