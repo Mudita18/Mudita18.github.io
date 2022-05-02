@@ -1,0 +1,37 @@
+body{
+	background-color: lightgrey;
+	text-align: center;
+}
+h1{
+	border-bottom: 5px solid plum ;
+	color: black;
+	text-transform: uppercase;
+	text-shadow: pink;
+	font-style:oblique;
+}
+.btn{
+	border-radius: 300px ;
+	text-transform: uppercase ;
+}
+
+.btn-primary{
+	background-color: hotpink;
+	border-color: hotpink;
+}
+
+.btn-primary:hover{
+	background-color: floralwhite;
+	border-color: floralwhite;
+	border-width: 4px;
+}
+.btn-xl{
+	padding : 1rem 2rem;
+}
+
+img{
+	float: left;
+}
+h2{
+	line-height: 50px;
+	cursor: pointer;
+}
